@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d839e977-35f7-4491-968d-e8323fdd7918" name="Default Changelist" comment="" />
+    <list default="true" id="d839e977-35f7-4491-968d-e8323fdd7918" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/Exercise331.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/Exercise331.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +20,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/exercises/Exercise108.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="240">
               <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -26,11 +29,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/Exercise108Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+            <state relative-caret-position="320">
+              <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -41,8 +44,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/exercises/Exercise331.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
+            <state relative-caret-position="400">
+              <caret line="36" column="41" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -51,15 +54,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/Exercise331Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="-80">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#283#284#0" expanded="true" />
-                <element signature="e#360#361#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -68,7 +69,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/exercises/Parameter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
+            <state relative-caret-position="40">
               <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
               <folding>
                 <element signature="e#175#176#0" expanded="true" />
@@ -98,6 +99,9 @@
       <dir>$PROJECT_DIR$/src</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -117,13 +121,13 @@
         <option value="$PROJECT_DIR$/src/exercises/Exercise108Test.java" />
         <option value="$PROJECT_DIR$/src/exercises/Exercise331Test.java" />
         <option value="$PROJECT_DIR$/src/tests/Exercise331Test.java" />
-        <option value="$PROJECT_DIR$/src/exercises/Exercise331.java" />
         <option value="$PROJECT_DIR$/src/exercises/SSS.java" />
         <option value="$PROJECT_DIR$/src/exercises/Exercise108.java" />
         <option value="$PROJECT_DIR$/src/tests/tests/Exercise108Test.java" />
         <option value="$PROJECT_DIR$/src/tests/tests/Exercise331Test.java" />
         <option value="$PROJECT_DIR$/tests/Exercise108Test.java" />
         <option value="$PROJECT_DIR$/tests/Exercise331Test.java" />
+        <option value="$PROJECT_DIR$/src/exercises/Exercise331.java" />
       </list>
     </option>
   </component>
@@ -132,6 +136,7 @@
     <option name="width" value="1366" />
     <option name="height" value="678" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages ProjectPane="true" />
@@ -154,6 +159,12 @@
             <path>
               <item name="Something" type="b2602c69:ProjectViewProjectNode" />
               <item name="Something" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="exercises" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Something" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Something" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -169,7 +180,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546962658032" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546983689627" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -178,7 +189,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -204,7 +215,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Exercise108Test">
+  <component name="RunManager" selected="JUnit.Exercise331Test (2)">
     <configuration name="Exercise108" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercises.Exercise108" />
       <module name="Something" />
@@ -263,8 +274,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Exercise108Test" />
         <item itemvalue="JUnit.Exercise331Test (2)" />
+        <item itemvalue="JUnit.Exercise108Test" />
         <item itemvalue="JUnit.Exercise331Test (1)" />
         <item itemvalue="Application.Exercise108" />
         <item itemvalue="Application.SSS" />
@@ -285,9 +296,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Exercise331Test_(1) - 2019.01.07 at 12h 07m 20s.xml">
-      <configuration name="Exercise331Test (1)" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Exercise331Test_(1) - 2019.01.07 at 12h 09m 43s.xml">
       <configuration name="Exercise331Test (1)" configurationId="JUnit" />
     </history-entry>
@@ -315,11 +323,14 @@
     <history-entry file="Exercise108Test - 2019.01.08 at 17h 46m 44s.xml">
       <configuration name="Exercise108Test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Exercise331Test_(2) - 2019.01.08 at 23h 33m 28s.xml">
+      <configuration name="Exercise331Test (2)" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="678" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.65154266" visible="true" weight="0.20833333" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.65154266" visible="true" weight="0.10454545" />
       <window_info id="Structure" order="1" sideWeight="0.34845734" side_tool="true" weight="0.19318181" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -328,7 +339,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5009074" side_tool="true" weight="0.19318181" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32849365" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32786885" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39927405" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -436,7 +447,7 @@
     <entry file="file://$PROJECT_DIR$/src/exercises/SSS.java" />
     <entry file="file://$PROJECT_DIR$/src/exercises/Exercise108.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="240">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -444,12 +455,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercises/Exercise331.java">
+    <entry file="file://$PROJECT_DIR$/tests/Exercise108Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        <state relative-caret-position="320">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
@@ -457,7 +467,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/exercises/Parameter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
+        <state relative-caret-position="40">
           <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
           <folding>
             <element signature="e#175#176#0" expanded="true" />
@@ -468,22 +478,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/Exercise331Test.java">
+    <entry file="file://$PROJECT_DIR$/src/exercises/Exercise331.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="400">
+          <caret line="36" column="41" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
           <folding>
+            <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/Exercise108Test.java">
+    <entry file="file://$PROJECT_DIR$/tests/Exercise331Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        <state relative-caret-position="-80">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

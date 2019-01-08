@@ -34,7 +34,7 @@ public class Exercise331 {
 
         int sumOfSquare;
         List<Parameter> result = new ArrayList<>();
-        int size = (int) (sqrt(param) + 1);
+        int size = (int) (sqrt(param) + 2);
 
 
         for (int x = 0; x < size; x++) {
