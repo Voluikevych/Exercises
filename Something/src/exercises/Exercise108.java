@@ -1,7 +1,7 @@
 /**
  * @(#)Exercise108.java
  *
- * This application search minimum degree of 2 which greater than input integer number n.
+ * This application search minimum number 2^r which greater than input natural number n.
  */
 package exercises;
 
@@ -20,16 +20,19 @@ public class Exercise108 {
     /**
      *
      * @param n it is input parameter n
-     * @return returns degree
+     * @return returns minimum number 2^r greater than n
      */
-
     public int calcDegree (int n){
+
+        if(n < 0){
+            throw new IllegalArgumentException("n should be positive");
+        }
 
         int r=0;
         for(int i=0;pow(2,i)<=n;i++){
             r++;
         }
-        return r;
+        return (int) pow(2,r);
     }
 
 }
